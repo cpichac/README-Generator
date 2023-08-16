@@ -54,7 +54,7 @@ let {title, description, installation, usage, license, contribution, test, usern
     },
     {
       type: 'input',
-      name: 'Quesiton',
+      name: 'quesiton',
       message: 'How would user contact you for any questions regarding your project?'
     },
 
@@ -104,7 +104,9 @@ ${contribution}
 ## Questions
 
 ${username}
-${email}
+-----------------
+${email},
+-----------------
 ${question}${email}
 
 
