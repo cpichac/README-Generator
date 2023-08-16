@@ -107,8 +107,7 @@ ${username}
 -----------------
 ${email},
 -----------------
-${question}
-${email}
+${question}${email}
 
 
 `;
