@@ -41,9 +41,9 @@ This project is open source and is not intended for any monetary gain. Any impor
 
 ## Questions
 
-example
+cpichac
 -----------------
-example@example.com,
+carlos12pichard@outlook.com
 -----------------
 If there is any question rergarding the project please feel free to email me back at example@example.com
 
