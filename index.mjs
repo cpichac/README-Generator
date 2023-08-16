@@ -73,8 +73,8 @@ ${description}
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [license](#license)
-- [Contibuting](#contributing)
+- [License](#license)
+- [Contibution](#contribution)
 - [Tests](#tests)
 - [Questions](#questions)
 
