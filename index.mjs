@@ -40,7 +40,7 @@ let {title, description, installation, usage, license, contribution, test, usern
     {
       type: 'input',
       name: 'test',
-      message: 'Enter the file path for your test image/gif: (ex. ./assets/ex1.jpeg)'
+      message: 'Enter the file path for your test image/gif: (ex. ./assets/ex1.jpg)'
     },
     {
       type: 'input',

@@ -35,7 +35,8 @@ This project is open source and is not intended for any monetary gain. Any impor
 
 ## Tests
 
-![A test on how to generate README](./assets/example.jpg)
+![Example on how to generate README](./assets/example.gif)
+![Preview](./assets/preview.gif)
 
 
 ## Questions
@@ -44,6 +45,6 @@ example
 -----------------
 example@example.com,
 -----------------
-undefinedexample@example.com
+If there is any question rergarding the project please feel free to email me back at example@example.com
 
 
