@@ -1,8 +1,7 @@
 
 import inquirer from 'inquirer';
 import fs from "fs/promises";
-
-const contributionTemplate = require('./contribution-template')
+// import contributionTemplate  from '../contribution-template';
 
 
 let {title, description, installation, usage, license, contribution, test, username, email, question } = await inquirer
@@ -36,7 +35,7 @@ let {title, description, installation, usage, license, contribution, test, usern
     {
       type: 'input',
       name: 'contribution',
-      message: 'Would you like a template for this page? (please enter Y / N)'
+      message: 'What are your Contribution Guidlines'
     },
     {
       type: 'input',
@@ -94,7 +93,7 @@ ${generateLicense(license)}
 
 ## Contribution
 
-contributionOption(${contribution})
+${contribution}
 
 
 ## Tests
@@ -131,17 +130,18 @@ function generateLicense(license){
         }
 }
 
-function contributionOption(contribution){
+// function contributionOption(contribution){
 
-    if (contribution === "Y"){
-
-        return 
+//     if (contribution === "Y"){
+        
+//         return template;
             
       
-    }
-    else {
+//     }
+//     else {
 
 
-        return
-    }
-}
+//         return
+//     }
+// }
+
